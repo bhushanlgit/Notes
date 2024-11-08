@@ -1,4 +1,0 @@
-Hello World 
-this is the git sample file
-This is new line added
-This is another line added
